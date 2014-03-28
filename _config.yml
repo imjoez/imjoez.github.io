@@ -11,9 +11,9 @@ pygments: true
 title : Joez
 tagline: Site Tagline
 author :
-  name : Joez
+  name : joez
   email : admin@joez.me
-  github : imjoez
+  github : imjoez/imjoez.github.io
   twitter : #
   feedburner : feedname
 
